@@ -1,0 +1,19 @@
+Hello,
+
+If you are here exploring, welcome but if you come to check out this code that's for the Adafruit Bluetooth Controlled NeoPixel Goggles.
+
+https://learn.adafruit.com/bluetooth-neopixel-goggles
+
+The project was expanded to follow the expanded tutorial for Kaleidoscope Eyes (Trinket-Powered NeoPixel LED Ring Goggles) 
+
+https://learn.adafruit.com/kaleidoscope-eyes-neopixel-led-goggles-trinket-gemma/wiring-soldering
+
+The code provided was worked on by several people but it expands the original script to play 6 different animations.
+
+Hardware used :
+
+-Pro Trinket
+-Adafruit Bluefruit LE UART Friend - Bluetooth Low Energy (BLE)
+-NeoPixel Ring - 16 x2
+-NeoPixel Jewel - 7 x2
+
